@@ -1,0 +1,13 @@
+name = "King of Lizards (Komodo Dragons)"
+filename = "komodo-dragons-1.21.4-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VtblAIjc/versions/dBPVtXRc/komodo-dragons-1.21.4-1.0.0.jar"
+hash-format = "sha512"
+hash = "3e31c4569da7bcccfd204b5aa263f6f46c4ff6440ffcf4ab5c094a0e7e28cb27857bfa3260e383e708c561614536cd816212aad0287c880a3f0b580e8db19eb3"
+
+[update]
+[update.modrinth]
+mod-id = "VtblAIjc"
+version = "dBPVtXRc"

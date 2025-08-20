@@ -1,0 +1,13 @@
+name = "fabric_1.21.4_bfe"
+author = "amtea"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d98e114b487a13df00339c9509169a0aad1051b91151ba2161edfd9656d607d4"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.4"
