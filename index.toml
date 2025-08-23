@@ -36,6 +36,11 @@ hash = "6914cb1d85aed2ba8f3008db6ef068b946d11d94d59427cdbb457d8263e533ca"
 metafile = true
 
 [[files]]
+file = "mods/dynmap.pw.toml"
+hash = "6b4f0ad573e4c2723c88b96ea64da5aa17060ad19bf7fdcd2b42c6bf60fbab6f"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
 metafile = true
@@ -138,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
-metafile = true
-
-[[files]]
-file = "mods/squaremap.pw.toml"
-hash = "bf52bf0490150adf1d542178921cf9866c1358e92bc65c0eaad1640fa1ab7b32"
 metafile = true
 
 [[files]]
