@@ -91,6 +91,11 @@ hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
 metafile = true
@@ -103,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "915e14e32cd86023ba64d8f329a7cf3f29b2c58d646dc3a1e2cfd75903dd0066"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
@@ -208,4 +218,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "9025311f42fe8ab581987962c9c6b3ec5a50f5afc803e9d867dc580cb0b66190"
+metafile = true
+
+[[files]]
+file = "sildurs-vibrant-shaders.pw.toml"
+hash = "5af2c47cf617b1c5d346a14f3d19a0059f550e1ef5276aeb5a75410fa2b59e2f"
 metafile = true
