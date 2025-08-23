@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
+hash = "017ef5c4a67c0e11de2fbadf1aa91a9147f2c39a91ad52f09e5fdde9d8cfcfcc"
 metafile = true
 
 [[files]]
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "bd31c2f58a8318819b0dbd35681015c90e2e8b2ff2552de7e0db90fec2857322"
+hash = "0e1d814be3e6b5cc32dd168fd876b243df2bf7ce0f454320ae278c76bbc9beb4"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "bbc4b43a62197fe45bcc7259b413709f6c67dd439ad38af209c146f89b6dc96d"
+hash = "6914cb1d85aed2ba8f3008db6ef068b946d11d94d59427cdbb457d8263e533ca"
 metafile = true
 
 [[files]]
@@ -47,12 +47,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "794ea065ee10e98aa4260f84b13bf214f3be822bd90d93452b8b1a0ad52e1d63"
+hash = "b2f2ef63febe17f277635827ca474e1aeae321e8a82bef78942116f95d00250a"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "f7300807ae86de166bab8ace015a47ace8c846c129dbdf73d7056ae624108533"
 metafile = true
 
 [[files]]
@@ -97,7 +102,17 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "fb00545a8f44b3aba921af10edc97650e8bc9c1196d21597d6878446a3b0bfe4"
+hash = "915e14e32cd86023ba64d8f329a7cf3f29b2c58d646dc3a1e2cfd75903dd0066"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "1400d600a7502d75f4f72971a618d9ded50b09878bc770079a901bdc9c28ce72"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "6aaef9cd2511b7e1816bbdd0f5bf9d4bddfe7186faca8f102aac95cc3ebaceff"
 metafile = true
 
 [[files]]
@@ -106,13 +121,18 @@ hash = "d663ed7529a79f9b5f9f9d7b3be61c0999b22daca0dc10482f51922b38409c66"
 metafile = true
 
 [[files]]
+file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
+hash = "5d47125035237b267ac28503515460767e5c03a9b30305017163f687fb005e3c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
-file = "mods/storage-delight.pw.toml"
-hash = "df0ddf81d28da3ade537364268e7ecc7646e57f2bade536f9cdec9aa5c0494c8"
+file = "mods/squaremap.pw.toml"
+hash = "bf52bf0490150adf1d542178921cf9866c1358e92bc65c0eaad1640fa1ab7b32"
 metafile = true
 
 [[files]]
@@ -127,7 +147,12 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "03779db3c7cbf7d5853647c3e800880468f8aeffb4bc7be174bbb0e243b0ea1a"
+hash = "648f6620cb331816adebd07e93b858bb65b7d39d73c8436dec6a54d8476279aa"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "82d8e33b003af7151efc71ad8baaaf0e3f6bda6ea71eca22d5664003849815fb"
 metafile = true
 
 [[files]]
@@ -161,8 +186,18 @@ hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fire-rekindled.pw.toml"
+hash = "930ee1f5d1d2f2350266a9e7e2879aee69e5a0c72919ee20955615a5e760fcf8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/low-on-fire.pw.toml"
 hash = "5bf1e0cdae07c586a852e0cb4068993f39dc62447cbe4560a8a7457dde0331a2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-shield-pack.pw.toml"
+hash = "e68d296830ab944c7b01942775be33b04c050203754aab22d4133c871680694e"
 metafile = true
 
 [[files]]

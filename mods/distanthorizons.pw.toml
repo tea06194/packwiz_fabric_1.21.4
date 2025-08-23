@@ -1,6 +1,6 @@
 name = "Distant Horizons"
 filename = "DistantHorizons-2.3.4-b-1.21.4-fabric-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/icIr6dPy/DistantHorizons-2.3.4-b-1.21.4-fabric-neoforge.jar"
