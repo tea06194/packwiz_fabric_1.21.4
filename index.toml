@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/abseil.pw.toml"
+hash = "8ad4d05b6af3d4173a726a92109559d8dce36c6d032fee4fdfb226b5e8ef1b7e"
+metafile = true
+
+[[files]]
+file = "mods/amm.pw.toml"
+hash = "94665e7a54074f2ca7c568ba6565b073aafd32919c1fd13407a9de565455e016"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "017ef5c4a67c0e11de2fbadf1aa91a9147f2c39a91ad52f09e5fdde9d8cfcfcc"
 metafile = true
@@ -121,6 +131,11 @@ hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
+file = "mods/polyfactory.pw.toml"
+hash = "75b22079a679958fd5096cfc281e6079c69f97c7fff8570e16a263b0bd875bcb"
+metafile = true
+
+[[files]]
 file = "mods/polylib.pw.toml"
 hash = "1400d600a7502d75f4f72971a618d9ded50b09878bc770079a901bdc9c28ce72"
 metafile = true
@@ -137,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
-hash = "5d47125035237b267ac28503515460767e5c03a9b30305017163f687fb005e3c"
+hash = "0f102dbd2f95e99fe1ee4c1d8676149792712fc3b0a55de2a09001951f0f5cb1"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "PolyFactory"
+filename = "polyfactory-0.6.4+1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MikpSrAF/versions/CBY6KLjd/polyfactory-0.6.4%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "1c9623f101fa87066764ebcf0fe200ec3d679a80de2cc02b721e5306f99246e5ab5b26f60a79d95fd7913f4fffedb5c5088125ae4d63ac69ad7d8a80cc403125"
+
+[update]
+[update.modrinth]
+mod-id = "MikpSrAF"
+version = "CBY6KLjd"

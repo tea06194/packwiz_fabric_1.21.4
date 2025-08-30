@@ -1,6 +1,6 @@
 name = "Remote Player Waypoints for Xaero's Map"
 filename = "remote_player_waypoints_for_xaero-fabric-3.5.0-1.21.4.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kiByZ6gx/versions/N2jsZVD8/remote_player_waypoints_for_xaero-fabric-3.5.0-1.21.4.jar"
